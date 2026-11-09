@@ -1,0 +1,13 @@
+# Compiled output
+*.class
+out/
+
+# Keep the bundled JDBC driver
+!lib/*.jar
+
+# Editor / OS files
+.idea/
+*.iml
+.vscode/
+.DS_Store
+Thumbs.db
